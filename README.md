@@ -17,7 +17,7 @@ In addition, this image includes a snapshot from the project:
 
 <img src="https://github.com/user-attachments/assets/9aa2f312-a8ac-4383-92fe-13ce86c6b5d9" width="500">
 
-The source code for SightGeek is added to this repository and can be found in the folders inside it. To run the project, download all items from the repository into the same directory and click on "SimCalor.html". The application should run in your local directory.
+The source code for KElcius is added to this repository and can be found in the folders inside it. To run the project, download all items from the repository into the same directory and click on "SimCalor.html". The application should run in your local directory.
 
 
 *This project was done with the collaboration of my classmates Rodrigo Moreno Plascencia, Rodrigo Bárcena Ramos, and Bruno Palacios Cacho.
