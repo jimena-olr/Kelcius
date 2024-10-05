@@ -11,7 +11,7 @@ A demo of the following project can be seen below:
 
 https://github.com/user-attachments/assets/67ebaf43-ab3f-4116-9cab-6caab11f4cd2
 
-In addition, some of this image includes a snapshot from the project:
+In addition, this image includes a snapshot from the project:
 
 
 
