@@ -9,7 +9,12 @@ KEl°Cius is a web application through which you can obtain the contact temperat
 
 A demo of the following project can be seen below:
 
-https://github.com/user-attachments/assets/87f4efe9-e150-41a3-ab52-1bc17d4ea9dd
+https://github.com/user-attachments/assets/67ebaf43-ab3f-4116-9cab-6caab11f4cd2
+
+In addition, some of this image includes a snapshot from the project:
+
+
+
 
 
 
