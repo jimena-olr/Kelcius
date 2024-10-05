@@ -12,7 +12,7 @@ A demo of the following project can be seen below:
 https://github.com/user-attachments/assets/67ebaf43-ab3f-4116-9cab-6caab11f4cd2
 
 In addition, this image includes a snapshot from the project:
-![Captura de pantalla 2024-10-04 220604](https://github.com/user-attachments/assets/9aa2f312-a8ac-4383-92fe-13ce86c6b5d9)
+<img src="https://github.com/user-attachments/assets/9aa2f312-a8ac-4383-92fe-13ce86c6b5d9" width="500">
 
 
 
