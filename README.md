@@ -7,6 +7,8 @@ KEl°Cius is a web application through which you can obtain the contact temperat
 - Dynamic PHP metal selector.
 - Dynamic, multidevice application through the usage of Bootstrap 5.
 
+This application is highly useful to simplify the calculations for temperature profiles for metallurgic engineers as this automates having to solve differential equations by hand. This is useful for case studies such as optimizing metal heating in an industrial oven or monitoring the temperature of metallic components during their movement in a transportation machine.
+
 A demo of the following project can be seen below:
 
 https://github.com/user-attachments/assets/67ebaf43-ab3f-4116-9cab-6caab11f4cd2
